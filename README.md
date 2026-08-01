@@ -4,5 +4,5 @@
 <p align="center">
 Yea I draw sometimes
   BTW IM A BOY
-  rest easy, I'll miss you smmm @vansiire
+  <br>rest easy, I'll miss you smmm @vansiire<br>
 </p>
